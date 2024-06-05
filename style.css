@@ -1,0 +1,24 @@
+.search{
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.search_button{
+    width: 80px;
+    
+
+}
+#meal-container{
+    display: felx;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.mealcard{
+    width:250px;
+    height: 250px;
+    border: 1px solid gray;
+}
+.card-image{
+    width:200px;
+    height:200px;
+}
